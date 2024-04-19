@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [driesbielen.be](driesbielen.be)
 
-- 👨‍💻 My VS-CODE extensions [VSCODE(https://vscode.dev/profile/github/8fdac09821ca99eeb12c85ab89e00e32)
+- 👨‍💻 My VS-CODE extensions [VSCODE](https://vscode.dev/profile/github/8fdac09821ca99eeb12c85ab89e00e32)
 
 - 💬 Ask me about **all frontend related stuff**
 
