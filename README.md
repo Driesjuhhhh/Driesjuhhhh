@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driesjuhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="driesjuhhhh" /> </p>
 
-- 🔭 I’m currently working on A Raspberry Pi Backend
+- 🔭 I’m currently working on my **Raspberry PI API**
 
 - 👨‍💻 All of my projects are available at [driesbielen.be](driesbielen.be)
 
