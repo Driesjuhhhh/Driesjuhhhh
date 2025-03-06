@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dries Bielen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driesjuhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="driesjuhhhh" /> </p>
 
-- 🔭 I’m currently working on **Red Bull Gaming Hub - App**
+- 🔭 I’m currently working on **school projects**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [driesbielen.be](driesbielen.be)
 
-- 👨‍💻 My VS-CODE extensions [https://vscode.dev/profile/github/f2b0d09f56deb33d93fe19dfb9ed250d](https://vscode.dev/profile/github/f2b0d09f56deb33d93fe19dfb9ed250d)
+- 👨‍💻 My VS-CODE extensions [click here](https://vscode.dev/profile/github/28689311b2d3a6b6a576064e7df85118)
 
 - 📫 Discord [Driesjuhhhh](Driesjuhhhh)
 
