@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [driesbielen.be](driesbielen.be)
+- 👨‍💻 All of my projects are available at [driesbielen.be](https://driesbielen.be)
 
 - 👨‍💻 My VS-CODE extensions [click here](https://vscode.dev/profile/github/28689311b2d3a6b6a576064e7df85118)
 
