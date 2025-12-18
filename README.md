@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dries Bielen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driesjuhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="driesjuhhhh" /> </p>
 
-- 🔭 I’m currently working on **RBGH App**
+- 🔭 I’m currently working on **IRL Streaming Software**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning about **Remote streaming using a RPI5**
 
 - 👨‍💻 All of my projects are available at [driesbielen.be](https://driesbielen.be)
 
