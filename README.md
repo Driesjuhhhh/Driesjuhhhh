@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IRL Streaming Software**
 
-- 🌱 I’m currently learning about **Remote streaming using a RPI5**
+- 🌱 I’m currently learning about **Apollo**
 
 - 👨‍💻 All of my projects are available at [driesbielen.be](https://driesbielen.be)
 
